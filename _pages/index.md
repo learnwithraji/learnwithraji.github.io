@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /
 title: "Teach to learn, learn to teach"
 excerpt: "Learning Together"
