@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:raji.adewale@ymail.com"
+      # url: "mailto:raji.adewale@ymail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.rajiadewale.com"
@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rajiadewale/"
 
 # Site Footer
