@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Teach to learn, learn to teach"
+excerpt: "Learning Together"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,6 @@ redirect_from:
   - /home.html
 ---
 
-<h1>By learning you will teach, by teaching you will learn</h1> 
-	<h3>-Latin Proverb</h3>
+<h1>By learning you will teach, by teaching you will learn</h1> <h3>-Latin Proverb</h3>
 
 

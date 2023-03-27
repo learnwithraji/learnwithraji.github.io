@@ -20,7 +20,7 @@ title                    : "Learning with Raji"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Adewale Raji"
-description              : "Cloud | Cybersecurity | Architect ; Learning ML & Embeded systems"
+description              : "Cloud | Cybersecurity  Architect ; Learning ML & Embeded systems"
 url                      : "https://learnwithraji.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "learnwithraji/learnwithraji.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Adewale Raji"
   avatar           : "/images/profile.jfif" # path of avatar image, e.g. 
-  bio              : "Cybersecurity Guy; ML and Embeded Systems Enthusiast"
+  bio              : "Cloud & Cybersecurity Architect; ML and Embeded Systems Enthusiast"
   location         : "Lagos, Nigeria"
   email            : "raji.adewale@ymail.com"
   links:
