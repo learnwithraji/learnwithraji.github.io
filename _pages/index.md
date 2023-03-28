@@ -16,7 +16,7 @@ I am a Solutions Architect and Trainer with expertise in Cloud & Cybersecurity. 
 
 ## By learning you will teach, by teaching you will learn (Latin Proverb)
 
-I learn everyday and I have a strong passion for teaching (hope to get into academia some day). 
+I like to learn and explore technologies within my areas of interest and I have a strong passion for teaching (hope to get into academia some day). 
 
 In my spare time, I enjoy <i>learningTogether</i> with like–minded learners and also exploring new things.
 
