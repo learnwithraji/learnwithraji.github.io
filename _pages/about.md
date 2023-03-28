@@ -10,7 +10,6 @@ redirect_from:
   - /home.html
 ---
 
-
 Call me Raji. 
 
 I am a Solutions Architect and Trainer with expertise in Cloud and Cybersecurity and recently develped interest in embeded systems. I'm also fascinated by machine learning and its applicationsin cybersecurity.
