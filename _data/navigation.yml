@@ -4,9 +4,9 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: https://learnwithraji.github.io/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Events"
+     url: /event/
+   - title: "LearnTogether"
+     url: /learntogether/
   # - title: "Sitemap"
   #   url: /sitemap/
