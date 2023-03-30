@@ -9,7 +9,7 @@ redirect_from:
 # Learning Together Series
 
 - Sign up here: https://airtable.com/shrCb8y6eTbPKwSTL
-- Join the learningTogether discord channel https://discord.gg/ZBRW44ksVn
+- [Join] the learningTogether discord channel (https://discord.gg/ZBRW44ksVn)
 - [Tweet about the course!](https://ctt.ac/fH67W)
 - Follow 
 -
