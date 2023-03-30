@@ -50,18 +50,18 @@ Fundermetal knowlege of network, systems and security
 #### Outline/Schedule
 
 #### Azure Security Architecture
--Defense in dept
--Zero Trust
--Network Architecture
+- Defense in dept
+- Zero Trust
+- Network Architecture
 
 #### Identity and Access Management
 
 #### Network Security
--Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
--Azure Firewall
--Azure Application Gateway
--Virtual Private Network
--Virtual Appliances (UDR)
+- Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
+- Azure Firewall
+- Azure Application Gateway
+- Virtual Private Network
+- Virtual Appliances (UDR)
 
 
 #### Host Security
