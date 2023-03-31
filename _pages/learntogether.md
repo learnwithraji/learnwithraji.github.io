@@ -11,7 +11,7 @@ Self-paced learning
 Time commitement - 2 hours every Saturday (10am -12)
 
 - Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
-- [Join](https://discord.gg/ZBRW44ksVn)the learningTogether discord channel 
+- [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
 - [Tweet about the course!](https://ctt.ac/fH67W)
 
 #### Previous LearningTogether
