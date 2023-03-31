@@ -3,29 +3,25 @@ layout:
 permalink: /learntogether/
 title: "Learning Together Series"
 excerpt: "Learning Together"
-author_profile: true 
+author_profile: true
 ---
-
-
-
-- Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
-- [Join](https://discord.gg/ZBRW44ksVn)the learningTogether discord channel 
-- [Tweet about the course!](https://ctt.ac/fH67W)
-
-
-
-## Previous LearningTogether
-Cohort 1: [Azure Administration](https://www.youtube.com/watch?v=FBflMDub5Es&list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
-
-
 
 Prerequisites:
 Self-paced learning
 Time commitement - 2 hours every Saturday (10am -12)
 
+- Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
+- [Join](https://discord.gg/ZBRW44ksVn)the learningTogether discord channel 
+- [Tweet about the course!](https://ctt.ac/fH67W)
+
+#### Previous LearningTogether
+Cohort 1: [Azure Administration](https://www.youtube.com/watch?v=FBflMDub5Es&list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
 
 
-Cohort 2: Azure Security
+
+
+
+## Cohort 2: Azure Security
 
 - Start: 8th April 2023 (Saturday) at 10:00 UTC+1
 - Duration: 6 Weeks
