@@ -5,8 +5,8 @@ main:
   - title: "Home"
     url: https://learnwithraji.github.io/
   - title: "Events"
-     url: /event/
+    url: /events/
   - title: "LearnTogether"
-     url: /learntogether/
+    url: /learntogether/
   # - title: "Sitemap"
   #   url: /sitemap/
