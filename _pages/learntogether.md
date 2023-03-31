@@ -1,12 +1,10 @@
 ---
 permalink: /learntogether/
-title: "Learning Together"
+title: "Learning Together Series"
 excerpt: "Learning Together"
-author_profile: true
-redirect_from: 
+author_profile: true 
 ---
 
-# Learning Together Series
 
 - Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
 - [Join](https://discord.gg/ZBRW44ksVn)the learningTogether discord channel 
