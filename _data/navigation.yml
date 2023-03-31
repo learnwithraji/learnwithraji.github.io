@@ -6,7 +6,7 @@ main:
     url: https://learnwithraji.github.io/
   - title: "Events"
      url: /event/
-   - title: "LearnTogether"
+  - title: "LearnTogether"
      url: /learntogether/
   # - title: "Sitemap"
   #   url: /sitemap/
