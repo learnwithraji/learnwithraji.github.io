@@ -42,14 +42,14 @@ Compliment learning towards achieving a Cloud Securiy related certification : e.
 
 ### Outline/Schedule
 
-#### Azure Security Architecture
+#### Week 1: Azure Security Architecture
 - Defense in dept
 - Zero Trust
 - Network Architecture
 
-#### Identity and Access Management
+#### Week 2: Identity and Access Management
 
-#### Network Security
+#### Week 3: Network Security
 - Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
 - Azure Firewall
 - Azure Application Gateway
@@ -57,11 +57,11 @@ Compliment learning towards achieving a Cloud Securiy related certification : e.
 - Virtual Appliances (UDR)
 
 
-#### Host Security
+#### Week 4: Host Security
 
-#### Data and Platform Protection
+#### Week 5: Data and Platform Protection
 
-#### Security Operations
+#### Week 6: Security Operations
 
 
 
