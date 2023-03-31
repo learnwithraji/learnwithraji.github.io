@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /learntogether/
 title: "Learning Together Series"
 excerpt: "Learning Together"
