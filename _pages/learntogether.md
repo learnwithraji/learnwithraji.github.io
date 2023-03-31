@@ -26,7 +26,7 @@ Time commitement - 2 hours every Saturday (10am -12)
 - Start: 8th April 2023 (Saturday) at 10:00 UTC+1
 - Duration: 6 Weeks
 - Location:
-  - YouTube: 
+  - [YouTube](https://www.youtube.com/@aderaji) 
   - [Twitch](https://www.twitch.tv/learningwithraji)
 
 
@@ -41,7 +41,7 @@ Prior knowlege or experiece with MZ Azure Administration ((You can go through th
 Fundermetal knowlege of network, systems and security 
 
 
-#### Outline/Schedule
+### Outline/Schedule
 
 #### Azure Security Architecture
 - Defense in dept
