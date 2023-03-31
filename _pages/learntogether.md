@@ -36,8 +36,8 @@ Compliment learning towards achieving a Cloud Securiy related certification : e.
 
 
 ### Prerequisites:
-Prior knowlege or experiece with MZ Azure Administration ((You can go through the Cohort 1: Azure lessons)
-Fundermetal knowlege of network, systems and security 
+- Prior knowlege or experiece with MZ Azure Administration ((You can go through the Cohort 1: Azure lessons)
+- Fundermetal knowlege of network, systems and security 
 
 
 ### Outline/Schedule
