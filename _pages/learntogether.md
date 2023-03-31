@@ -14,7 +14,7 @@ Time commitement - 2 hours every Saturday (10am -12)
 - [Tweet about the course!](https://ctt.ac/fH67W)
 
 #### Previous LearningTogether
-- Cohort 1: [Azure Administration](https://www.youtube.com/watch?v=FBflMDub5Es&list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
+- Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
 
 
 
