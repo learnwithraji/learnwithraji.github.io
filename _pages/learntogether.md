@@ -8,16 +8,15 @@ redirect_from:
 
 # Learning Together Series
 
-- Sign up here: https://airtable.com/shrCb8y6eTbPKwSTL
-- [Join] the learningTogether discord channel (https://discord.gg/ZBRW44ksVn)
+- Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
+- [Join](https://discord.gg/ZBRW44ksVn)the learningTogether discord channel 
 - [Tweet about the course!](https://ctt.ac/fH67W)
-- Follow 
--
+
 
 Self-paced mode
 
-Previous LearningTogether
-Cohort 1: Azure Administration https://www.youtube.com/watch?v=FBflMDub5Es&list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a
+## Previous LearningTogether
+Cohort 1: [Azure Administration](https://www.youtube.com/watch?v=FBflMDub5Es&list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
 
 
 
@@ -29,11 +28,11 @@ Time commitement - 2 hours every Saturday (10am -12)
 
 Cohort 2: Azure Security
 
-Start: 8th April 2023 (Saturday) at 10:00 UTC+1
-Duration: 6 Weeks
-Location:
- -YouTube: 
- -Twitch: https://www.twitch.tv/learningwithraji
+- Start: 8th April 2023 (Saturday) at 10:00 UTC+1
+- Duration: 6 Weeks
+- Location:
+-- YouTube: 
+-- [Twitch](https://www.twitch.tv/learningwithraji)
 
 
 ### Objective
