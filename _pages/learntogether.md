@@ -30,14 +30,14 @@ Time commitement - 2 hours every Saturday (10am -12)
 
 
 ### Objective
-Develop understanding of MS Azure Security Architecture
-Build skill in implementing security features and contolls on MS Azure
-Compliment learning towards achieving a Cloud Securiy related certification : e.g Az-500, 
+- Develop understanding of MS Azure Security Architecture
+- Build skill in implementing security features and contolls on MS Azure
+- Compliment learning towards achieving a Cloud Securiy related certification : e.g Az-500, 
 
 
 ### Prerequisites:
-- Prior knowlege or experiece with MZ Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
-- Fundermetal knowlege of network, systems and security 
+- Prior knowlege or experience with MZ Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
+- Fundamentals knowledge of network, systems and security 
 
 
 ### Outline/Schedule
