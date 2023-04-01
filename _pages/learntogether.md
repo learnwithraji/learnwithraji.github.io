@@ -36,8 +36,9 @@ Time commitement - 2 hours every Saturday (10am -12)
 
 
 ### Prerequisites:
-- Prior knowlege or experience with MZ Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
-- Fundamentals knowledge of network, systems and security 
+- Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
+- Fundamental knowledge of network, systems and security 
+- MS Azure Subscription (You can sign up for Az trail [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE)
 
 
 ### Outline/Schedule
@@ -48,8 +49,21 @@ Time commitement - 2 hours every Saturday (10am -12)
 - Network Architecture
 
 #### Week 2: Identity and Access Management
+-Azuer Active Directory
+- Azure Active Directory Domain Services
+- Hybrid Identityn(AD Connect, Fedration )
+- Azure AD Objects (USers, Guest, Groups, Administrative Units)
+- Authentication (
+- Role Based
 
-#### Week 3: Network Security
+#### Week 3: Identity Protection and Governance
+- Identity Protection (Identity Risk, MFA, Conditional Access)
+- Azure Systems Hierarchy
+- Azure Access Control (Azure AD Roles, Resoucres Roles, RBAC, PIM)
+- Azure Policy
+
+
+#### Week 4: Network Security
 - Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
 - Azure Firewall
 - Azure Application Gateway
@@ -57,12 +71,14 @@ Time commitement - 2 hours every Saturday (10am -12)
 - Virtual Appliances (UDR)
 
 
-#### Week 4: Host Security
+#### Week 5: Host Security
 
-#### Week 5: Data and Platform Protection
+#### Week 6: Data and Platform Protection
 
-#### Week 6: Security Operations
+#### Week 7: Security Operations
 
+
+#### Week 8: Security Operations
 
 
 
