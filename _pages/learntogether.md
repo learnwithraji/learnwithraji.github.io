@@ -31,7 +31,7 @@ Prerequisites:
 ### Objective
 - Develop understanding of MS Azure Security Architecture
 - Build skill in implementing security features and contolls on MS Azure
-- Compliment learning towards achieving a Cloud Securiy related certification : e.g Az-500, 
+- Compliment learning towards achieving a Cloud Securiy related certification : e.g AZ-500, CCSP
 
 
 ### Prerequisites:
