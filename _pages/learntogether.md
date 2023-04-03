@@ -37,7 +37,7 @@ Prerequisites:
 ### Prerequisites:
 - Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
 - Fundamental knowledge of network, systems and security 
-- MS Azure Subscription (You can sign up for Az trail [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE)
+- MS Azure Subscription (You can sign up for Az trail [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
 
 
 ### Outline/Schedule
@@ -51,7 +51,7 @@ Prerequisites:
 - Azuer Active Directory
 - Azure Active Directory Domain Services
 - Hybrid Identityn(AD Connect, Fedration )
-- Azure AD Objects (USers, Guest, Groups, Administrative Units)
+- Azure AD Objects (Users, Guest, Groups, Administrative Units)
 - Authentication Methods (Password, Passwordless)
 
 #### Week 3: Identity Protection and Governance
@@ -62,19 +62,32 @@ Prerequisites:
 - Azure Policy
 
 #### Week 4: Network Security
-- Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
+- Virtual Network Security (NSG, ASG, DDoS, Service endpoints, Private links)
 - Azure Firewall
 - Azure Application Gateway
 - Virtual Private Network
 - Virtual Appliances (UDR)
 
-#### Week 5: Host Security
+#### Week 5: Host and Container Security
+- Privileged Access Workstation 
+- Secure Remote Access
+- Vulnerability and Patch Management
+- Disk Encryption
+- Container Instance Security
+- Container Registry and Access Control
 
 #### Week 6: Data and Platform Protection
+- Data Security
+- Application Security
+- Database security
+- Certificates and Secrete (Key vaults)
 
 #### Week 7: Security Operations
+- Posture and Workload Security
+- Monitoring and Log Analytics
+- Security Event Management and Automation
 
-#### Week 8: Security Operations
+#### Week 8: Revision and Case studies
 
 
 
