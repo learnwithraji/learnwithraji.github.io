@@ -12,7 +12,7 @@ Prerequisites:
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
 
 
-#### Previous LearningTogether
+### Previous LearningTogether
 - Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
 
 
@@ -22,7 +22,7 @@ Prerequisites:
 ## Cohort 2: Azure Security
 
 - Start: 8th April 2023 (Saturday) at 10:00 UTC+1
-- Duration: 6 Weeks
+- Duration: 8 Weeks
 - Location:
   - [YouTube](https://www.youtube.com/@aderaji) 
   - [Twitch](https://www.twitch.tv/learningwithraji)
@@ -68,13 +68,11 @@ Prerequisites:
 - Virtual Private Network
 - Virtual Appliances (UDR)
 
-
 #### Week 5: Host Security
 
 #### Week 6: Data and Platform Protection
 
 #### Week 7: Security Operations
-
 
 #### Week 8: Security Operations
 
