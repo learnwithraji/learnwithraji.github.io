@@ -6,14 +6,11 @@ author_profile: true
 ---
 
 Prerequisites:
-Self-paced learning
-Time commitement - 2 hours every Saturday (10am -12)
-
-<html><iframe width="320px" height="240px" src="https://forms.office.com/r/gQckxp2UxC?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></html>
-
-- Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
+- Self-paced learning
+- Time commitement - 2 hours every Saturday (10am -12)
+- Sign up [here](https://forms.office.com/r/gQckxp2UxC)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
-- [Tweet about the course!](https://ctt.ac/fH67W)
+
 
 #### Previous LearningTogether
 - Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
