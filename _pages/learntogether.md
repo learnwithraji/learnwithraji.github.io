@@ -9,6 +9,8 @@ Prerequisites:
 Self-paced learning
 Time commitement - 2 hours every Saturday (10am -12)
 
+<iframe width="640px" height="480px" src="https://forms.office.com/r/gQckxp2UxC?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 - Sign up [here](https://airtable.com/shrCb8y6eTbPKwSTL)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
 - [Tweet about the course!](https://ctt.ac/fH67W)
