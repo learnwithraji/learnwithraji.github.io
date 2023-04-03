@@ -49,19 +49,18 @@ Time commitement - 2 hours every Saturday (10am -12)
 - Network Architecture
 
 #### Week 2: Identity and Access Management
--Azuer Active Directory
+- Azuer Active Directory
 - Azure Active Directory Domain Services
 - Hybrid Identityn(AD Connect, Fedration )
 - Azure AD Objects (USers, Guest, Groups, Administrative Units)
-- Authentication (
-- Role Based
+- Authentication Methods (Password, Passwordless)
 
 #### Week 3: Identity Protection and Governance
 - Identity Protection (Identity Risk, MFA, Conditional Access)
+- Privilege Identity Management
 - Azure Systems Hierarchy
-- Azure Access Control (Azure AD Roles, Resoucres Roles, RBAC, PIM)
+- Azure Access Control (Azure AD Roles, Resoucres Roles, RBAC)
 - Azure Policy
-
 
 #### Week 4: Network Security
 - Virtual Network Security (NSG. DDoS, Service endpoints,Private links)
