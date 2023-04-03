@@ -20,7 +20,7 @@ I like to learn and explore technologies within my areas of interest and I have 
 
 In my spare time, I enjoy <i>learningTogether</i> with like–minded learners and also exploring new things.
 
-You can join me in any of these events or learningTogether sessions.
+You can join me in any of these [Events](https://learnwithraji.github.io/events/) or [learningTogether](https://learnwithraji.github.io/learntogether/) sessions.
 
 
 
