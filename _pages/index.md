@@ -15,7 +15,7 @@ LearningTogether is a weekly online learning session focused on cloud computing 
 Join us each week as we embark on a  journey to discover the limitless possibilities of the cloud and how to keep it secured.
 
 
-####Prerequisites:
+#### Prerequisites:
 - Self-paced learning
 - Commit to 2hrs every Saturday (10am -12)
 - Sign up [here](https://forms.office.com/r/gQckxp2UxC)
