@@ -10,20 +10,91 @@ redirect_from:
   - /home.html
 ---
 
-Call me Raji. 
 
-I am a Solutions Architect and Trainer with expertise in Cloud & Cybersecurity. I recently developed interest in embeded systems and I'm also fascinated by machine learning and its applications in cybersecurity.
 
-Over the years, I have worked with several Microsoft technologies ranging from Windows Servers, Exchange, Active Directory, Systems Center, Forefront. In recent times, I wine and dine  Azure and Microsoft 365
+Prerequisites:
+- Self-paced learning
+- Time commitement - 2 hours every Saturday (10am -12)
+- Sign up [here](https://forms.office.com/r/gQckxp2UxC)
+- [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
 
-## By learning you will teach, by teaching you will learn (Latin Proverb)
 
-I learn and explore technologies within my areas of interest and I have a strong passion for teaching (hope to get into academia some day). Here I share my learinings, experiences and exploration.
+### Previous LearningTogether
+- Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
 
-Join me in the <i>learningTogether</i> sessions where with like–minded learners and also exploring new things.
 
-You can join me in any of these [Events](https://learnwithraji.github.io/events/) or [learningTogether](https://learnwithraji.github.io/learntogether/) sessions.
 
+
+
+## Cohort 2: Azure Security
+
+- Start: 8th April 2023 (Saturday) at 10:00 UTC+1
+- Duration: 8 Weeks
+- Location:
+  - [YouTube](https://www.youtube.com/@aderaji) 
+  - [Twitch](https://www.twitch.tv/learningwithraji)
+
+
+### Objective
+- Develop understanding of MS Azure Security Architecture
+- Build skill in implementing security features and contolls on MS Azure
+- Compliment learning towards achieving a Cloud Securiy related certification : e.g AZ-500, CCSP
+
+
+### Prerequisites:
+- Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
+- Fundamental knowledge of network, systems and security 
+- MS Azure Subscription (You can sign up for Azure trial [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
+
+
+### Outline/Schedule
+
+#### Week 1: Azure Security Architecture
+- Defense in dept
+- Zero Trust
+- Network Architecture
+
+#### Week 2: Identity and Access Management
+- Azuer Active Directory
+- Azure Active Directory Domain Services
+- Hybrid Identityn(AD Connect, Fedration )
+- Azure AD Objects (Users, Guest, Groups, Administrative Units)
+- Authentication Methods (Password, Passwordless)
+
+#### Week 3: Identity Protection and Governance
+- Identity Protection (Identity Risk, MFA, Conditional Access)
+- Privilege Identity Management
+- Azure Systems Hierarchy
+- Azure Access Control (Azure AD Roles, Resoucres Roles, RBAC)
+- Azure Policy
+
+#### Week 4: Network Security
+- Virtual Network Security (NSG, ASG, DDoS, Service endpoints, Private links)
+- Azure Firewall
+- Azure Application Gateway
+- Virtual Private Network
+- Virtual Appliances (UDR)
+
+#### Week 5: Host and Container Security
+- Privileged Access Workstation 
+- Secure Remote Access
+- Vulnerability and Patch Management
+- Disk Encryption
+- Container Instance Security
+- Container Registry and Access Control
+
+#### Week 6: Data and Platform Protection
+- Data Security
+- Application Security
+- Database security
+- Certificates and Secrete (Key vaults)
+
+#### Week 7: Security Operations
+- Posture and Workload Security
+- Monitoring and Log Analytics
+- Security Event Management and Automation
+
+#### Week 8: Revision and Case studies
 
 
 
