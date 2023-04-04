@@ -5,11 +5,17 @@ excerpt: "Learning Together"
 author_profile: true
 ---
 
-Prerequisites:
+LearningTogether is a weekly online learning session focused on cloud computing and cloud security! We explore the fundamentals of Cloud computing and Security. The session is aimed at developing knowledge and skills necessary to navigate the complex world of cloud computing and cloud security for career or certification. 
+
+Join us each week as we embark on a  journey to discover the limitless possibilities of the cloud and how to keep it secured.
+
+
+#### Prerequisites:
 - Self-paced learning
-- Time commitement - 2 hours every Saturday (10am -12)
+- Commit to 2hrs every Saturday (10am -12)
 - Sign up [here](https://forms.office.com/r/gQckxp2UxC)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
+- MS Azure Subscription (You can sign up for Azure trial [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
 
 
 ### Previous LearningTogether
@@ -20,6 +26,8 @@ Prerequisites:
 
 
 ## Cohort 2: Azure Security
+
+![image-center](/images/Azuresec.jpg){: .align-center}
 
 - Start: 8th April 2023 (Saturday) at 10:00 UTC+1
 - Duration: 8 Weeks
