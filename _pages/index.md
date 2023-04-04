@@ -15,16 +15,17 @@ LearningTogether is a weekly online learning session focused on cloud computing 
 Join us each week as we embark on a  journey to discover the limitless possibilities of the cloud and how to keep it secured.
 
 
-Prerequisites:
+####Prerequisites:
 - Self-paced learning
 - Commit to 2hrs every Saturday (10am -12)
 - Sign up [here](https://forms.office.com/r/gQckxp2UxC)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
-{: .notice--info}
+- MS Azure Subscription (You can sign up for Azure trial [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
+
 
 ### Previous LearningTogether
 - Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
-{: .notice--success}
+
 
 
 
@@ -44,10 +45,10 @@ Prerequisites:
 - Compliment learning towards achieving a Cloud Securiy related certification : e.g AZ-500, CCSP
 
 
-### Prerequisites:
+### Cohort Prerequisites:
 - Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
 - Fundamental knowledge of network, systems and security 
-- MS Azure Subscription (You can sign up for Azure trial [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
+
 
 
 ### Outline/Schedule
