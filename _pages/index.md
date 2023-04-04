@@ -10,11 +10,14 @@ redirect_from:
   - /home.html
 ---
 
+LearningTogether is a weekly online learning session focused on cloud computing and cloud security! We explore the fundamentals of Cloud computing and Security. The session is aimed at developing knowledge and skills necessary to navigate the complex world of cloud computing and cloud security for career or certification. 
+
+Join us each week as we embark on a  journey to discover the limitless possibilities of the cloud and how to keep it secured.
 
 
 Prerequisites:
 - Self-paced learning
-- Time commitement - 2 hours every Saturday (10am -12)
+- Commit to 2hrs every Saturday (10am -12)
 - Sign up [here](https://forms.office.com/r/gQckxp2UxC)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
 
