@@ -20,11 +20,11 @@ Prerequisites:
 - Commit to 2hrs every Saturday (10am -12)
 - Sign up [here](https://forms.office.com/r/gQckxp2UxC)
 - [Join](https://discord.gg/ZBRW44ksVn) the learningTogether discord channel 
-
+{: .notice--info}
 
 ### Previous LearningTogether
 - Cohort 1: [Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a)
-
+{: .notice--success}
 
 
 
