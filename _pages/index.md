@@ -32,6 +32,8 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 
 ## Cohort 2: Azure Security
 
+![image-center](/images/AzureSecurity.jpg){: .align-center}
+
 - Start: 8th April 2023 (Saturday) at 10:00 UTC+1
 - Duration: 8 Weeks
 - Location:
