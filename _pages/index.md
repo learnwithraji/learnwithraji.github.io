@@ -44,12 +44,13 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 ### Objective
 - Develop understanding of MS Azure Security Architecture
 - Build skill in implementing security features and contolls on MS Azure
-- Compliment learning towards achieving a Cloud Securiy related certification : e.g AZ-500, CCSP
+- Build skill required to maintain an organization’s security posture, and identify and remediate security vulnerabilities in Azure
+- Compliment learning towards achieving a Cloud Security related certification : e.g AZ-500, CCSP
 
 
 ### Cohort Prerequisites:
 - Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
-- Fundamental knowledge of network, systems and security 
+- Fundamental knowledge of Network, Systems and Security 
 
 
 
@@ -58,6 +59,7 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 #### Week 1: Azure Security Architecture
 - Defense in dept
 - Zero Trust
+- Shared Resposibility
 - Network Architecture
 
 #### Week 2: Identity and Access Management
