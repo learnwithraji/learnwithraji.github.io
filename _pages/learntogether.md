@@ -39,21 +39,29 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 ### Objective
 - Develop understanding of MS Azure Security Architecture
 - Build skill in implementing security features and contolls on MS Azure
-- Compliment learning towards achieving a Cloud Securiy related certification : e.g AZ-500, CCSP
+- Build skill required to maintain an organization’s security posture, and identify and remediate security vulnerabilities in Azure
+- Compliment learning towards achieving a Cloud Security related certification : e.g AZ-500, CCSP
 
 
-### Prerequisites:
+### Cohort Prerequisites:
 - Prior knowledge or experience with MS Azure Administration (You can go through the [Cohort 1: Azure Administration](https://www.youtube.com/playlist?list=PLAIfj0YIoMBcLegHLjwCgTPVYg-vYOt1a) playlist)
-- Fundamental knowledge of network, systems and security 
-- MS Azure Subscription (You can sign up for Azure trial [here](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&OCID=AIDcmmfdukp5kz_SEM_EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE:G:s&gclid=EAIaIQobChMI2fCFqryJ_gIVAuJ3Ch1LAAKREAAYASAAEgKDt_D_BwE))
+- Fundamental knowledge of Network, Systems and Security 
+
 
 
 ### Outline/Schedule
 
-#### Week 1: Azure Security Architecture
+#### Week 1 (08-Apr-2023: Azure Security Architecture
 - Defense in dept
 - Zero Trust
+- Shared Responsibility
 - Network Architecture
+
+Follow up reading
+- https://learn.microsoft.com/en-us/azure/security/fundamentals/overview
+- https://learn.microsoft.com/en-us/azure/security/fundamentals/services-technologies
+
+Session recording: [Week 1](https://www.youtube.com/watch?v=o2Bhuvk082Y&list=PLAIfj0YIoMBewEEWx_CtaPr549bAr8LqO&index=1&t=1587s)
 
 #### Week 2: Identity and Access Management
 - Azuer Active Directory
@@ -96,6 +104,8 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 - Security Event Management and Automation
 
 #### Week 8: Revision and Case studies
+
+
 
 
 
