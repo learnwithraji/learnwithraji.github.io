@@ -59,7 +59,7 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 #### Week 1: Azure Security Architecture
 - Defense in dept
 - Zero Trust
-- Shared Resposibility
+- Shared Responsibility
 - Network Architecture
 
 #### Week 2: Identity and Access Management
