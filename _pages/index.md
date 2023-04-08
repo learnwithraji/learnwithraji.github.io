@@ -65,6 +65,7 @@ Join us each week as we embark on a  journey to discover the limitless possibili
 Follow up reading
 - https://learn.microsoft.com/en-us/azure/security/fundamentals/overview
 - https://learn.microsoft.com/en-us/azure/security/fundamentals/services-technologies
+
 Session recording: [Week 1](https://www.youtube.com/watch?v=o2Bhuvk082Y&list=PLAIfj0YIoMBewEEWx_CtaPr549bAr8LqO&index=1&t=1587s)
 
 #### Week 2: Identity and Access Management
